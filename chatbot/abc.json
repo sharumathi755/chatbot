@@ -1,0 +1,15 @@
+{
+    "questions_and_answers": [
+        {"You": "hello", "Chatbot": "Hi there! How can I assist you?"},
+        {"You": "how are you", "Chatbot": "I'm just a chatbot, but I'm here to help!"},
+        {"You": "what is your name", "Chatbot": "I am your friendly chatbot, here to assist you."},
+        {"You": "what is ai", "Chatbot": "AI stands for Artificial Intelligence, enabling machines to mimic human intelligence."},
+        {"You": "tell me a joke", "Chatbot": "Why don't scientists trust atoms? Because they make up everything!"},
+        {"You": "who are you", "Chatbot": "I am an AI chatbot designed to assist you with information."},
+        {"You": "what is the weather like", "Chatbot": "I don't have live weather data right now, but you can check a weather app or website for the current forecast."},
+        {"You": "how old are you", "Chatbot": "I'm timeless! I'm just a program, so I don't age."},
+        {"You": "bye", "Chatbot": "Goodbye! Have a nice day!"},
+        {"You": "thank you", "Chatbot": "You're welcome! Feel free to ask me anything else."},
+        {"You": "tell me a fact", "Chatbot": "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient tombs that are over 3,000 years old!"}
+    ]
+}
